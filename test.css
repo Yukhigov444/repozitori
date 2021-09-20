@@ -74,12 +74,18 @@ ul {
 	display: flex;
 }
 .ul2 {
-	display: block;
+	margin-left: 180px;
 }
 .ul2 a {
-	margin-left: 210px;
+	margin-left: 20px;
 	color: blue;
 }
 .ul2 a:hover {
 	color: black;
+}
+.logo {
+	display: flex;
+}
+.logo img {
+	width: 100px;
 }
