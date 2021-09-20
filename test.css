@@ -4,7 +4,6 @@ body {
 .card {
 	background-color: white;
 	width: 600px;
-	height: 320px;
 }
 
 .zagolovokh1 {
@@ -73,4 +72,14 @@ ul li {
 ul {
 	justify-content: space-between;
 	display: flex;
+}
+.ul2 {
+	display: block;
+}
+.ul2 a {
+	margin-left: 210px;
+	color: blue;
+}
+.ul2 a:hover {
+	color: black;
 }
